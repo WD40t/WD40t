@@ -1,15 +1,32 @@
-### Hi there 👋, my name is Liam
-#### I am CS undergrad student at Taylor's University
-![I am CS undergrad student at Taylor's University](https://github.com/WD40t/WD40t/assets/150331419/1c847466-62db-472c-bb44-f4982398876c)
+### Hi there 👋, I'm William (Liam)
+#### Computer Science (AI & Data Science) Graduate — Taylor's University & UWE Bristol
 
-I enjoy learning code logic and writing out code in general, as well as learning how computers work.
+![Banner](https://github.com/WD40t/WD40t/assets/150331419/1c847466-62db-472c-bb44-f4982398876c)
 
-Skills: JAVA / PYTHON / C++
+I work at the intersection of **Enterprise Systems & Business Analysis**, **Backend Engineering**, and **AI-Assisted/Agentic Workflows**. My background spans delivering enterprise Loan & Financing Origination Systems (LOS/FOS) for major regional banks across Malaysia and Indonesia, ML Pipelines, alongside building high-throughput asynchronous web systems and data architectures.
 
-- 🔭 I’m currently working on my problem solving skills
-- 🤔 I’m looking for help with learning DSA and programming
-- 📫 You can reach me (idk why you would right now) at:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WD40t)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wd_4ot/)  
+---
+
+### 🛠️ Tech Stack & Focus Areas
+
+- **Languages & Backend:** Python (Django, Flask), PHP, SQL, JavaScript, HTML/CSS
+- **Databases & Messaging:** PostgreSQL, Oracle DB, IBM Db2, MariaDB, Redis, Celery
+- **AI & Agentic Workflows:** Context Engineering, Model Context Protocol (MCP) Servers, GitHub Copilot, OpenAI Codex, Gemini API
+- **DevOps & Tooling:** Docker, WSL 2, Git (GitHub, GitLab, Bitbucket), DBeaver, Toad for Oracle, ClickUp
+- **Enterprise & BA Delivery:** Functional Specification Documents (FSDs), Workflow & Rules Configuration, System Integration Debugging (CBS, CCRIS, CTOS), Agile/Scrum
+
+---
+
+### 🔭 Current Focus
+- Designing asynchronous messaging/campaign architectures and database observability patterns (Django, Redis, Celery, PostgreSQL)
+- Exploring AI agent workflows, MCP integrations, and structured context engineering for legacy and modern codebases
+- Researching IoT sensor networks and automated environmental controls
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/william-davis-99265821a](https://www.linkedin.com/in/william-davis-99265821a)
+- **Email:** [williamguidavis@gmail.com](mailto:williamguidavis@gmail.com)
 
 
 
