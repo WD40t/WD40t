@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm William (Liam)
 #### Computer Science (AI & Data Science) Graduate — Taylor's University & UWE Bristol
 
-![Banner](<img width="2752" height="1536" alt="Gemini_Generated_Image_uj3wiquj3wiquj3w" src="https://github.com/user-attachments/assets/1ae21e73-604d-4f55-afb7-14771481ca59" />
-)
+![Banner](<img width="2752" height="1536" alt="Gemini_Generated_Image_uj3wiquj3wiquj3w" src="https://github.com/user-attachments/assets/1ae21e73-604d-4f55-afb7-14771481ca59" />)
 
 I work at the intersection of **Enterprise Systems & Business Analysis**, **Backend Engineering**, and **AI-Assisted/Agentic Workflows**. My background spans delivering enterprise Loan & Financing Origination Systems (LOS/FOS) for major regional banks across Malaysia and Indonesia, ML Pipelines, alongside building high-throughput asynchronous web systems and data architectures.
 
